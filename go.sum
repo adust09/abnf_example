@@ -1,3 +1,5 @@
+github.com/dave/jennifer v1.6.1 h1:T4T/67t6RAA5AIV6+NP8Uk/BIsXgDoqEowgycdQQLuk=
+github.com/dave/jennifer v1.6.1/go.mod h1:nXbxhEmQfOZhWml3D1cDK5M1FLnMSozpbFN/m3RmGZc=
 github.com/di-wu/regen v1.0.0/go.mod h1:+KqJmSeFLlFKds2W13YGscFiDLGuvLRAYrhBOYf0+/w=
 github.com/elimity-com/abnf v0.1.0 h1:LRxht6SgYhVqEpwSm/s5Cb5ZdGwcPEt+VISJBZIRBKM=
 github.com/elimity-com/abnf v0.1.0/go.mod h1:ZTrCQn7/BHfZLvtqHypfu4+e84F2ppa9lRonz93RR8I=

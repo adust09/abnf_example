@@ -1,4 +1,11 @@
 {
     "commentTranslate.hover.enabled": false,
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "DQUOTE",
+        "HEXDIG",
+        "HTAB",
+        "LWSP",
+        "VCHAR"
+    ]
 }
